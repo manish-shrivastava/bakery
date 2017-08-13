@@ -49,10 +49,14 @@ A successfully passing test(s) that demonstrates the following output:
 
 ### Advice:
 Choose whatever language you’re comfortable with
-● The input/output format is not important, do whatever feels reasonable
-● Make sure you include at least one test
-● We expect the see code which you would be happy to put in production
-● If something is not clear don’t hesitate to ask or just make an assumption and go with it
+
+** The input/output format is not important, do whatever feels reasonable
+
+** Make sure you include at least one test
+
+** We expect the see code which you would be happy to put in production
+
+** If something is not clear don’t hesitate to ask or just make an assumption and go with it
 
  
 # Installation Guide
