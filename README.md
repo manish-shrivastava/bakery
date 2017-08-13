@@ -65,16 +65,16 @@ Ruby : 2.3.1
 
 Rails: 4.2.5
 
-## Run Project
+## To run Project
 
-> rake db:create
-> rake db:migrate
-> rake db:seed
+``` rake db:create &&  rake db:migrate && rake db:seed``
+
+and then:
 
 
-```
-rspec 
-```
+``` rails s ```
+
+
 
 ## Tests
 
